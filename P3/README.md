@@ -1,4 +1,4 @@
-1. Añade en tu servidor el módulo mod_info y explique para que se utiliza este plugin.
+# 1. Añade en tu servidor el módulo mod_info y explique para que se utiliza este plugin.
 
 ![image](https://github.com/PolCasamitjana/DAW/assets/144775621/d81e564e-955d-433c-888e-76764dab1c59)
 
