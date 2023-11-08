@@ -35,3 +35,5 @@ simbólicos necesarios para añadir esta configuración a la ejecución de apach
 
 ![image](https://github.com/PolCasamitjana/DAW/assets/144775621/29aa8a0b-b8fa-4ef3-84bd-79844652132e)
 
+![image](https://github.com/PolCasamitjana/DAW/assets/144775621/b1bd5f34-b412-4aa8-b2a3-4276ebb12d06)
+
