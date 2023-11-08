@@ -29,6 +29,8 @@ simbólicos necesarios para añadir esta configuración a la ejecución de apach
 
 ![image](https://github.com/PolCasamitjana/DAW/assets/144775621/472ca38d-c238-4c21-9fce-731cd4f426e7)
 
+![image](https://github.com/PolCasamitjana/DAW/assets/144775621/c2ca823e-95ee-42e3-b68c-1d737d6379ff)
+
 ![image](https://github.com/PolCasamitjana/DAW/assets/144775621/4466d439-f1c3-47ad-abb2-84dc2d87a9d1)
 
 ![image](https://github.com/PolCasamitjana/DAW/assets/144775621/c6fcf82d-4ecb-438f-9fa6-bc998c9e724b)
